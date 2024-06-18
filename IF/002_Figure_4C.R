@@ -1,6 +1,8 @@
 ## Script for visualisation of the T cell groups  from the immunofluorescence data in relation to survival
 # R version 4.0.2
 
+# Note: follow up data is available upon reasonable request
+
 #### Set up environment ####
 rm(list = ls())
 

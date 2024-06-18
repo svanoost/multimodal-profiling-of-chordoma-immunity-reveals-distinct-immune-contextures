@@ -1,6 +1,8 @@
 ## Script for the prognostic analysis for the T cell phenotypes from the immunofluorescence data
 # R version 4.0.2
 
+# Note: follow up data is available upon reasonable request
+
 #### Set up environment ####
 rm(list = ls())
 
